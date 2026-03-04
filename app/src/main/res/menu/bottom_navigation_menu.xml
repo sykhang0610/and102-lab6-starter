@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_parks"
+        android:title="Parks"
+        android:icon="@drawable/baseline_park_24" />
+
+    <item
+        android:id="@+id/nav_campgrounds"
+        android:title="Campgrounds"
+        android:icon="@drawable/outline_ac_unit_24" />
+    <!-- later change to a campground icon -->
+
+</menu>
